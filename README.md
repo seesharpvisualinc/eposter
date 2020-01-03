@@ -1,2 +1,2 @@
-# eposter_sw
+# eposter
 ePoster Software Release and Issue Tracking
